@@ -4,7 +4,7 @@
 Home Page
 ![lab](https://github.com/ambadas2214/Library-Management-System/assets/123884024/b5501d43-0c17-402f-b483-3b3be854d9f6)
 
-Inser Book Page
+Insert Book Page
 
 ![lab_insert](https://github.com/ambadas2214/Library-Management-System/assets/123884024/3518d94d-caf1-43ce-bf32-c5d57e22ca8c)
 
