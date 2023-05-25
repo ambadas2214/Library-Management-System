@@ -12,5 +12,4 @@ Update Book Page
 
 ![lab_update](https://github.com/ambadas2214/Library-Management-System/assets/123884024/60f63d64-0cad-4189-8ed3-62c9f92ca7ff)
 
-ShowAll Books
-![IMG-20230402-WA0003](https://github.com/ambadas2214/Library-Management-System/assets/123884024/88880404-7bda-4355-a6ea-53486c6ee794)
+
