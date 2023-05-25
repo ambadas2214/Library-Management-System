@@ -1,0 +1,34 @@
+@charset "UTF-8";
+body
+{ 
+    background-color:darkgrey;	
+}
+h1
+{
+	text-align: center;
+	margin-top: 100px;
+	color:black;
+}
+
+caption
+{
+	text-align:left;
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+a{
+	color: blue;
+}
+table
+{
+	
+	margin-left: 450px;	
+	margin-top: 50px;
+
+}
+h4
+{
+	color: red;
+}
+ 

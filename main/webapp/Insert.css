@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body
+{
+	background-color: darkgrey;	
+}
+h1
+{
+	text-align: center;
+	margin-top: 110px;
+}
+h2
+{
+	margin-left: 520px;
+	margin-top: 40px;
+}
+form
+{
+	margin-left: 520px;
+	
+}
+caption
+{
+	text-align:left;
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+input
+{
+ margin-top: 5px;
+ padding-left: 8px;
+ padding-right: 5px;
+ padding-top: 5px;
+ padding-bottom: 5px;	
+}
